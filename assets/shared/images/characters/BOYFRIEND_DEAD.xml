@@ -122,10 +122,4 @@
 	<SubTexture name="BF dies0049" x="2648" y="2794" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
 	<SubTexture name="BF dies0050" x="3089" y="2794" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
 	<SubTexture name="BF dies0051" x="3530" y="2794" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
-	<SubTexture name="BF dies0052" x="2" y="3231" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
-	<SubTexture name="BF dies0053" x="2" y="2" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="435"/>
-	<SubTexture name="BF dies0054" x="443" y="3231" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
-	<SubTexture name="BF dies0055" x="443" y="3231" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
-	<SubTexture name="BF dies0056" x="443" y="3231" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
-	<SubTexture name="BF dies0057" x="443" y="3231" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
 </TextureAtlas>
